@@ -1,0 +1,9 @@
+# Ignore build and debug files
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.bak
+*.tmp
+*.cache
